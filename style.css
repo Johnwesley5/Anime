@@ -1,0 +1,13 @@
+body{
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+    background-color: brown;
+    margin:0px 400px 0px 400px;
+    
+}
